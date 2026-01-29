@@ -71,7 +71,13 @@ ai-chat-app/
 
 ## Screenshots
 
-*Add screenshots of your app here*
+<p align="center">
+  <img src="./assets/screenshots/home.png" width="250" alt="Home Screen" />
+</p>
+
+<p align="center">
+  <b>Conversation List</b> - Glass UI with floating navbar
+</p>
 
 ## License
 
